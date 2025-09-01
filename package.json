@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-at-25",
-  "version": "25.9.2",
+  "version": "25.9.5",
   "main": "index.js",
   "author": "Viacheslav Makarov <vvmakarov@bazilio.ru>",
   "license": "MIT",
@@ -15,9 +15,7 @@
     "node": ">=20.0"
   },
   "dependencies": {
-    "@eslint/eslintrc": "^3.3.1"
-  },
-  "peerDependencies": {
+    "@eslint/eslintrc": "^3.3.1",
     "eslint": "^9.34.0",
     "@typescript-eslint/eslint-plugin": "^8.41.0",
     "@typescript-eslint/parser": "^8.41.0",

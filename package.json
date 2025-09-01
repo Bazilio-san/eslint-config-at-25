@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-at-25",
-  "version": "25.9.1",
+  "version": "25.9.2",
   "main": "index.js",
   "author": "Viacheslav Makarov <vvmakarov@bazilio.ru>",
   "license": "MIT",

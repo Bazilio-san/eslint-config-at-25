@@ -162,5 +162,9 @@ module.exports = {
       },
     ],
     'vue/multi-word-component-names': 'off',
+    'no-restricted-syntax': 'off',
+    'no-await-in-loop': 'off',
+    'curly': ['error', 'all'],
+    'prefer-destructuring': ['error', { object: true, array: false }],
   },
 };
